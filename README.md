@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simon Wekesa</h1>
-<h3 align="center">An Electronic and computer Engineering graduant with passion in Artificia Intelligence,Cybersecurity,Embedded systems,Web dev and data mining.</h3>
+<h3 align="center">An Electronic and computer Engineering graduate with passion in Artificial Intelligence,Cybersecurity,Embedded systems,IOT systems,Web development(Backend Engineering) and data mining.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon0017&label=Profile%20views&color=0e75b6&style=flat" alt="simon0017" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simon0017" alt="simon0017" /></a> </p>
 
-- 🔭 I’m currently working on an estate management system [Vesta Realty](https://github.com/Simon0017/VestaRealty)
+- 🔭 I’m currently working on a Django Rest Framework project for a IOT server that offers many services such as AI as a service just to name but one.
 
-- 🌱 I’m currently learning **Ethical hacking and pcb design**
+- 🌱 I’m currently learning **RUST language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simon0017](https://github.com/Simon0017)
 
