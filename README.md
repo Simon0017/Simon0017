@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon Wekesa</h1>
-<h3 align="center">An Electronic and computer Engineering  with passion in Artificial Intelligence, Cybersecurity, Embedded systems, IOT systems,Web development <i>(Backend Engineering)</i>  and Data mining.</h3>
+<h3 align="center">An Electronic and computer Engineer  with passion in Artificial Intelligence, Cybersecurity, Embedded systems, IOT systems,Web development <i>(Backend Engineering)</i>  and Data mining.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon0017&label=Profile%20views&color=0e75b6&style=flat" alt="simon0017" /> </p>
 
