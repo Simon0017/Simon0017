@@ -32,18 +32,18 @@ I'm actively developing:
 
 <div align="left">
 
-- **🤖 Artificial Intelligence & ML** - TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy
-- **🌐 Backend Engineering** - Django, REST APIs, Microservices, Real-time Systems
-- **📱 Embedded Systems & IoT** - Arduino, Raspberry Pi, PlatformIO, STM32
-- **🔐 Cybersecurity** - Network security, Secure coding practices
-- **📊 Data Science** - Data analytics, visualization, machine learning pipelines
-- **🎯 Full-Stack Development** - React, Node.js, MongoDB, PostgreSQL, MySQL
+- **Artificial Intelligence & ML** - TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy
+- **Backend Engineering** - Django, REST APIs, Microservices, Real-time Systems
+- **Embedded Systems & IoT** - Arduino, Raspberry Pi, PlatformIO, STM32
+- **Cybersecurity** - Network security, Secure coding practices
+- **Data Science** - Data analytics, visualization, machine learning pipelines
+- **Full-Stack Development** - React, Node.js, MongoDB, PostgreSQL, MySQL
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm actively developing:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -110,7 +110,7 @@ I'm actively developing:
 
 ---
 
-## 🏆 Key Projects
+## Key Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
@@ -121,7 +121,7 @@ I'm actively developing:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -136,8 +136,8 @@ I'm actively developing:
 
 <div align="center">
 
-**⭐ If you find my projects useful, consider giving them a star!**
+**If you find my projects useful, consider giving them a star!**
 
-*Last updated: May 2026*
+*Last updated: June 2026*
 
 </div>
